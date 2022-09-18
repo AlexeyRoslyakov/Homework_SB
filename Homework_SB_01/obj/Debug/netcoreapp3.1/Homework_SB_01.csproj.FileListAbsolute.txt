@@ -1,0 +1,14 @@
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.exe
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.deps.json
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.runtimeconfig.json
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.runtimeconfig.dev.json
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.dll
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\bin\Debug\netcoreapp3.1\Homework_SB_01.pdb
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.csproj.AssemblyReference.cache
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.AssemblyInfoInputs.cache
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.AssemblyInfo.cs
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.csproj.CoreCompileInputs.cache
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.dll
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.pdb
+C:\Users\advsa\source\repos\AlexeyRoslyakov\Homework_SB\Homework_SB_01\obj\Debug\netcoreapp3.1\Homework_SB_01.genruntimeconfig.cache
